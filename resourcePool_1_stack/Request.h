@@ -6,6 +6,7 @@
 #include <vector>
 struct Request
 {
+    
     std::unordered_map<std::string, double> resource;
     Request(std::unordered_map<std::string, double> *resource)
     {

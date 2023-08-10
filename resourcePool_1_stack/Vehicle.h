@@ -4,9 +4,12 @@
 #include <unordered_map>
 #include <string>
 #include <vector>
+#include <cmath>
 struct Vehicle
 {
     std::string vehicleID;
+    double x, y;
+    double dist;
     std::unordered_map<std::string, double> resource;
     std::unordered_map<std::string, double> usedResource;
     Vehicle(std::string vehicleID, std::unordered_map<std::string, double> *resource, std::unordered_map<std::string, double> *usedResource)
@@ -66,6 +69,18 @@ struct Vehicle
             return qty;
         }
         return 0;
+    }
+     double distance(Vehicle v2)
+    {
+        double dist=0;
+        if(v2.vehicleID==this->vehicleID)
+        {
+            dist += 100000; 
+        }
+        dist = dist + std::sqrt(std::pow(this->x - v2.x, 2) + std::pow(this->y - v2.y, 2));
+        this->dist = dist;
+        std::cout <<"distance score:" << dist << std::endl;
+        return dist;
     }
 
 };

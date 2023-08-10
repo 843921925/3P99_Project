@@ -36,9 +36,9 @@ Request ResourcePool::requestResource(Request *request)
         for(auto& item : this->pool)
         {
             Vehicle *vehicle = &(item.second);
-            // std::cout << "DBG: vehicleID=" << vehicle->vehicleID << std::endl;
+             std::cout << "DBG: vehicleID=" << vehicle->vehicleID << std::endl;
             remain = vehicle->assign(name, remain);
-            // std::cout << "DBG: resource assigned" << std::endl;
+             std::cout << "DBG assigned " <<std::endl;
             if(remain == 0) break;
         }
         if(remain != 0){

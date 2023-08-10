@@ -160,9 +160,9 @@ Request ResourcePool::releaseResource(Request *request)
         for(auto& item : this->pool)
         {
             Vehicle *vehicle = &(item.second);
-            std::cout << "DBG: vehicleID=" << vehicle->vehicleID << std::endl;
+            //std::cout << "DBG: vehicleID=" << vehicle->vehicleID << std::endl;
             remain = vehicle->dismiss(name, remain);
-            std::cout << "DBG: resource released" << std::endl;
+            std::cout << "resource released" << std::endl;
             if(remain == 0) break;
         }
         if(remain != 0){

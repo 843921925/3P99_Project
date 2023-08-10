@@ -92,7 +92,7 @@ struct Vehicle
         }
         dist = dist + std::sqrt(std::pow(this->x - v2.x, 2) + std::pow(this->y - v2.y, 2));
         this->dist = dist;
-        std::cout <<"distance score:" << dist << std::endl;
+        std::cout <<"distance :" << dist << std::endl;
         return dist;
     }
 
@@ -111,7 +111,7 @@ struct Vehicle
             score += total;
         }
         this->resourceScore = score;
-        std::cout <<"resourse score:" << score << "ID:" << this->vehicleID << std::endl;
+        std::cout <<"resourse score:" << score << "  ID:" << this->vehicleID << std::endl;
         return score;
 
         

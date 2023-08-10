@@ -1,0 +1,200 @@
+resourse score:200112  ID:1
+resourse score:300127  ID:2
+resourse score:200049  ID:3
+resourse score:100040  ID:4
+resourse score:300062  ID:5
+resourse score:200101  ID:6
+resourse score:200032  ID:7
+resourse score:300127  ID:8
+resourse score:300115  ID:9
+resourse score:200078  ID:10
+resourse score:300155  ID:11
+resourse score:200145  ID:12
+resourse score:200083  ID:13
+resourse score:300198  ID:14
+resourse score:100083  ID:15
+resourse score:300214  ID:16
+resourse score:300127  ID:17
+resourse score:200109  ID:18
+resourse score:300085  ID:19
+resourse score:200038  ID:20
+resourse score:200080  ID:21
+resourse score:300115  ID:22
+resourse score:300115  ID:23
+resourse score:100036  ID:24
+resourse score:300101  ID:25
+resourse score:100028  ID:26
+resourse score:300090  ID:27
+resourse score:200063  ID:28
+resourse score:300065  ID:29
+resourse score:200137  ID:30
+vehicle score#1:1  ID:26
+vehicle score#1:2  ID:24
+vehicle score#1:3  ID:4
+vehicle score#1:4  ID:15
+vehicle score#1:5  ID:7
+vehicle score#1:6  ID:20
+vehicle score#1:7  ID:3
+vehicle score#1:8  ID:28
+vehicle score#1:9  ID:10
+vehicle score#1:10  ID:21
+vehicle score#1:11  ID:13
+vehicle score#1:12  ID:6
+vehicle score#1:13  ID:18
+vehicle score#1:14  ID:1
+vehicle score#1:15  ID:30
+vehicle score#1:16  ID:12
+vehicle score#1:17  ID:5
+vehicle score#1:18  ID:29
+vehicle score#1:19  ID:19
+vehicle score#1:20  ID:27
+vehicle score#1:21  ID:25
+vehicle score#1:22  ID:9
+vehicle score#1:23  ID:22
+vehicle score#1:24  ID:23
+vehicle score#1:25  ID:2
+vehicle score#1:26  ID:17
+vehicle score#1:27  ID:8
+vehicle score#1:28  ID:11
+vehicle score#1:29  ID:14
+vehicle score#1:30  ID:16
+distance :1114.1
+distance :320.39
+distance :686.004
+distance :1252.16
+distance :1754.69
+distance :100000
+distance :1795.72
+distance :1173.28
+distance :1928
+distance :2291.67
+distance :1274.5
+distance :926.193
+distance :1119.05
+distance :1167.57
+distance :380.001
+distance :1324.36
+distance :1130.91
+distance :1415.78
+distance :743.186
+distance :1433.22
+distance :634.467
+distance :181.838
+distance :1110.15
+distance :154.302
+distance :1805.47
+distance :1960.53
+distance :1997.2
+distance :857.823
+distance :1019.06
+distance :207.041
+vehicle score#2:3  ID:24
+vehicle score#2:25  ID:22
+vehicle score#2:18  ID:30
+vehicle score#2:29  ID:2
+vehicle score#2:9  ID:15
+vehicle score#2:16  ID:21
+vehicle score#2:14  ID:3
+vehicle score#2:27  ID:19
+vehicle score#2:17  ID:28
+vehicle score#2:26  ID:12
+vehicle score#2:29  ID:29
+vehicle score#2:36  ID:23
+vehicle score#2:27  ID:1
+vehicle score#2:25  ID:13
+vehicle score#2:41  ID:17
+vehicle score#2:45  ID:14
+vehicle score#2:44  ID:8
+vehicle score#2:21  ID:4
+vehicle score#2:47  ID:11
+vehicle score#2:50  ID:16
+vehicle score#2:34  ID:18
+vehicle score#2:28  ID:20
+vehicle score#2:40  ID:5
+vehicle score#2:29  ID:7
+vehicle score#2:46  ID:25
+vehicle score#2:48  ID:9
+vehicle score#2:28  ID:26
+vehicle score#2:48  ID:27
+vehicle score#2:38  ID:10
+vehicle score#2:42  ID:6
+Vehicle ID: 24 - 3
+Vehicle ID: 15 - 9
+Vehicle ID: 3 - 14
+Vehicle ID: 21 - 16
+Vehicle ID: 28 - 17
+Vehicle ID: 30 - 18
+Vehicle ID: 4 - 21
+Vehicle ID: 13 - 25
+Vehicle ID: 22 - 25
+Vehicle ID: 12 - 26
+Vehicle ID: 19 - 27
+Vehicle ID: 1 - 27
+Vehicle ID: 26 - 28
+Vehicle ID: 20 - 28
+Vehicle ID: 2 - 29
+Vehicle ID: 7 - 29
+Vehicle ID: 29 - 29
+Vehicle ID: 18 - 34
+Vehicle ID: 23 - 36
+Vehicle ID: 10 - 38
+Vehicle ID: 5 - 40
+Vehicle ID: 17 - 41
+Vehicle ID: 6 - 42
+Vehicle ID: 8 - 44
+Vehicle ID: 14 - 45
+Vehicle ID: 25 - 46
+Vehicle ID: 11 - 47
+Vehicle ID: 9 - 48
+Vehicle ID: 27 - 48
+Vehicle ID: 16 - 50
+RE-ARRANGE: vehicleID=24
+RE-ARRANGE: vehicleID=15
+RE-ARRANGE: vehicleID=3
+RE-ARRANGE: vehicleID=21
+RE-ARRANGE: vehicleID=28
+RE-ARRANGE: vehicleID=30
+RE-ARRANGE: vehicleID=4
+RE-ARRANGE: vehicleID=13
+RE-ARRANGE: vehicleID=22
+RE-ARRANGE: vehicleID=12
+RE-ARRANGE: vehicleID=19
+RE-ARRANGE: vehicleID=1
+RE-ARRANGE: vehicleID=26
+RE-ARRANGE: vehicleID=20
+RE-ARRANGE: vehicleID=2
+RE-ARRANGE: vehicleID=7
+RE-ARRANGE: vehicleID=29
+RE-ARRANGE: vehicleID=18
+RE-ARRANGE: vehicleID=23
+RE-ARRANGE: vehicleID=10
+RE-ARRANGE: vehicleID=5
+RE-ARRANGE: vehicleID=17
+RE-ARRANGE: vehicleID=6
+RE-ARRANGE: vehicleID=8
+RE-ARRANGE: vehicleID=14
+RE-ARRANGE: vehicleID=25
+RE-ARRANGE: vehicleID=11
+RE-ARRANGE: vehicleID=9
+RE-ARRANGE: vehicleID=27
+RE-ARRANGE: vehicleID=16
+DBG: vehicleID=24
+DBG: resource assigned
+DBG: vehicleID=15
+DBG: resource assigned
+DBG: vehicleID=24
+DBG: resource assigned
+DBG: vehicleID=24
+DBG: resource assigned
+All requested resources are assigned successfully.
+resource released
+resource released
+All requested resources are released successfully.
+Resource: 
+bandwidth: 1259
+cpu: 1415
+memory: 1830
+Used Resource: 
+bandwidth: 82
+cpu: 70
+memory: 79

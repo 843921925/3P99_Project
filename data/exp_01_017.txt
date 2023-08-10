@@ -1,0 +1,46 @@
+distance: 1479.46
+distance: 637.541
+distance: 2106.55
+distance: 522.92
+distance: 1516.43
+distance: 868.229
+distance: 1616.17
+distance: 1309.03
+distance: 873.284
+distance: 305.413
+distance: 1873.26
+distance: 1272.7
+distance: 1464.6
+distance: 2233.21
+distance: 1155.55
+distance: 766.804
+distance: 812.977
+distance: 1265.22
+distance: 1454.57
+distance: 574.781
+distance: 152.118
+distance: 408.718
+distance: 1261.77
+distance: 1573.8
+distance: 885.653
+distance: 2116.03
+distance: 613.013
+distance: 1789.8
+distance: 1629.8
+distance: 974.762
+DBG: vehicleID=12
+DBG assigned 
+DBG: vehicleID=12
+DBG assigned 
+DBG: vehicleID=12
+DBG assigned 
+All requested resources are assigned successfully.
+All requested resources are released successfully.
+Resource: 
+bandwidth: 1582
+cpu: 1537
+memory: 1458
+Used Resource: 
+bandwidth: 78
+cpu: 50
+memory: 12
